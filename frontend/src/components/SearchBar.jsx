@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 // import SearchIcon from '@mui/icons-material/Search';
-import "../PageCss/searchbar.css";
+import "../PageCss/SearchBar.css";
 
 function SearchBar({placeholder,data }) {
   const [filteredData, setFilteredData] = useState([]);
