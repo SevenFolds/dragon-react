@@ -1,6 +1,6 @@
 import React from "react";
 import "./PageCss/Home.css";
-// import "./PageCss/subscription.css";
+import "./PageCss/Subscription.css";
 import UpperTitle from "./homepage/UpperTitle";
 import Subscription from "./components/Subscription";
 import Footer from "./components/Footer";

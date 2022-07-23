@@ -1,4 +1,5 @@
 import React from "react";
+import '../PageCss/Subscription.css';
 
 function Subscription() {
   return (

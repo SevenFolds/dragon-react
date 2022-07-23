@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
+import '../PageCss/Navbar.css';
 // import Login from './loginpage/Login';
 // import Signup from './loginpage/Signup';
 // import { propTypes } from 'react-bootstrap/esm/Image'
